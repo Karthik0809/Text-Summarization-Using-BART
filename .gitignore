@@ -1,0 +1,6 @@
+# .gitignore
+venv/
+__pycache__/
+*.pyc
+fine_tuned_bart/
+summary_history.csv
