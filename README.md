@@ -97,7 +97,7 @@ The model is based on:
 ## ✍️ Author
 
 **Karthik Mulugu**  
-[GitHub](https://github.com/Karthik0809) | [LinkedIn](https://www.linkedin.com/in/karthik0809)
+[GitHub](https://github.com/Karthik0809) | [LinkedIn](https://www.linkedin.com/in/karthikmulugu/)
 
 ---
 
