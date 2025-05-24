@@ -2,6 +2,8 @@
 
 This project implements an abstractive text summarization system using a fine-tuned [BART](https://arxiv.org/abs/1910.13461) model. The app uses **Streamlit** as the front-end interface and provides a simple UI to summarize custom input text using a pre-trained or fine-tuned BART model.
 
+![image](https://github.com/user-attachments/assets/5e325303-e18b-4602-920f-3bc819eb1044)
+
 ---
 
 ## 📁 Project Structure
